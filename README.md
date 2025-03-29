@@ -14,7 +14,7 @@ O projeto é muito simples e foi feito para uso próprio em projetos Delphi.
 Apenas abra o executável, cole o hexadecimal desejado e clique em converter, com isso o valor de TColor será copiado para a área de transferência.
 
 
-## Tecnologias utilizadas:
+## Tecnologias utilizadas
   
   ![](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ---
