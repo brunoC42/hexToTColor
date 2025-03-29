@@ -1,4 +1,4 @@
-# hexToTColor
+# HexToTColor 🎨
 
 ## Visão Geral
 
