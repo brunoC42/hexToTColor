@@ -1,9 +1,5 @@
 # hexToTColor
 
-![License](https://img.shields.io/github/license/brunoC42/hexToTColor)
-![Issues](https://img.shields.io/github/issues/brunoC42/hexToTColor)
-![Stars](https://img.shields.io/github/stars/brunoC42/hexToTColor)
-
 ## Visão Geral
 
 O `hexToTColor` é uma ferramenta que converte códigos de cores hexadecimais em `TColor`, um tipo de dado amplamente utilizado em Delphi e Lazarus para representar cores. Esta ferramenta foi feita para facilitar o uso de cores em Delphi.
