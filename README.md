@@ -3,7 +3,7 @@
 ## Visão Geral
 
 O `hexToTColor` é uma ferramenta que converte códigos de cores hexadecimais em `TColor`, um tipo de dado amplamente utilizado em Delphi e Lazarus para representar cores. Esta ferramenta foi feita para facilitar o uso de cores em Delphi.
-O projeto é muito simples e foi feito para uso próprio em projetos Delphi.
+O projeto é muito simples e foi feito para uso próprio em projetos pessoais.
 
 ## Recursos
 
